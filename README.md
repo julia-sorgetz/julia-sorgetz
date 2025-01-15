@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">19 anos | Desenvolvedora Fullstack</h5>
+<h4 align="left">19 anos | Desenvolvedora Fullstack</h4>
 
 ###
 
