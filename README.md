@@ -3,6 +3,7 @@
 ###
 
 <h4 align="left">19 anos | Desenvolvedora Fullstack</h4>
+<a href="https://julia-sorgetz-alves.netlify.app/">Meu site</a>
 
 ###
 
